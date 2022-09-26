@@ -65,6 +65,22 @@ ___TEMPLATE_PARAMETERS___
     "name": "yahoo_ydn_conv_value",
     "type": "TEXT",
     "canBeEmptyString": true
+  },
+  {
+    "help": "コンバージョンが発生した対象の電話番号です。",
+    "displayName": "yahoo_phone_number",
+    "simpleValueType": true,
+    "name": "yahoo_phone_number",
+    "type": "TEXT",
+    "canBeEmptyString": true
+  },
+  {
+    "help": "コンバージョンが発生した対象のメールアドレスです。",
+    "displayName": "yahoo_email",
+    "simpleValueType": true,
+    "name": "yahoo_email",
+    "type": "TEXT",
+    "canBeEmptyString": true
   }
 ]
 
@@ -89,7 +105,9 @@ const onSuccess = () => {
           yahoo_ydn_conv_io: data.yahoo_ydn_conv_io,
           yahoo_ydn_conv_label: data.yahoo_ydn_conv_label,
           yahoo_ydn_conv_transaction_id: data.yahoo_ydn_conv_transaction_id,
-          yahoo_ydn_conv_value: data.yahoo_ydn_conv_value
+          yahoo_ydn_conv_value: data.yahoo_ydn_conv_value,
+          yahoo_phone_number: data.yahoo_phone_number,
+          yahoo_email: data.yahoo_email
         }}
       );
   
