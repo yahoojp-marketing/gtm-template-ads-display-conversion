@@ -17,7 +17,7 @@ documentation: "https://ads-help.yahoo.co.jp/yahooads/display/articledetail?lan=
 versions:
   # Latest version
   - sha: 5f9a09b315f5a9aeaa3de485d4c9435477648999
-    changeNotes: Add new features
+    changeNotes: 電話番号、メールアドレスの入力項目を追加しました
   
   # Older versions
   - sha: 88e91696a096bfc70ff47e16ba76f25f644924f7
