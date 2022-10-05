@@ -16,9 +16,11 @@ homepage: "https://promotionalads.yahoo.co.jp/"
 documentation: "https://ads-help.yahoo.co.jp/yahooads/display/articledetail?lan=ja&aid=59417"
 versions:
   # Latest version
+  - sha: 5f9a09b315f5a9aeaa3de485d4c9435477648999
+    changeNotes: 電話番号、メールアドレスの入力項目を追加しました
+  
+  # Older versions
   - sha: 88e91696a096bfc70ff47e16ba76f25f644924f7
     changeNotes: ご利用時の注意点を記載しました
-
-  # Older versions
   - sha: 69e887d02aadd0e689e9321e14233baa55075581
     changeNotes: Initial Version
