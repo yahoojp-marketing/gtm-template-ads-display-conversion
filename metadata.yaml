@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://promotionalads.yahoo.co.jp/"
-documentation: "https://ads-help.yahoo.co.jp/yahooads/display/articledetail?lan=ja&aid=59417"
+homepage: "https://www.lycbiz.com/jp/service/yahoo-ads/"
+documentation: "https://ads-help.yahoo-net.jp/s/article/H000044362?language=ja"
 versions:
   # Latest version
   - sha: 5f9a09b315f5a9aeaa3de485d4c9435477648999
