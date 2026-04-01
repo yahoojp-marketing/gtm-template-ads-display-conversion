@@ -9,8 +9,8 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Yahoo広告（ディスプレイ広告） - コンバージョン測定タグ",
-  "description": "Yahoo広告（ディスプレイ広告）のコンバージョン測定用タグです。\n※タグの実行順序について注意点があります。下の「リンク」にある「ドキュメント」をクリックしてご確認ください。",
+  "displayName": "LINEヤフー広告 ディスプレイ広告 - コンバージョン測定タグ",
+  "description": "LINEヤフー広告 ディスプレイ広告のコンバージョン測定用タグです。\n※タグの実行順序について注意点があります。下の「リンク」にある「ドキュメント」をクリックしてご確認ください。",
   "categories": ["ADVERTISING", "MARKETING", "CONVERSIONS"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -31,7 +31,7 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-    "displayName": "\u003ca href\u003d\"https://ads-help.yahoo.co.jp/yahooads/display/articledetail?lan\u003dja\u0026aid\u003d59417\"\u003eコンバージョン測定（ディスプレイ広告）について\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上の「コンバージョン測定（ディスプレイ広告）について」をクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e",
+    "displayName": "\u003ca href\u003d\"https://ads-help.yahoo-net.jp/s/article/H000044362?language\u003dja"\u003eコンバージョン測定で設置が必要なタグについて\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上の「コンバージョン測定（ディスプレイ広告）について」をクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e",
     "name": "product_link",
     "type": "LABEL"
   },
