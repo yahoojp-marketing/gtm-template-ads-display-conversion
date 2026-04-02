@@ -31,7 +31,7 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-    "displayName": "\u003ca href\u003d\"https://ads-help.yahoo-net.jp/s/article/H000044362?language\u003dja"\u003eコンバージョン測定で設置が必要なタグについて\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上の「コンバージョン測定（ディスプレイ広告）について」をクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e",
+    "displayName": "\u003ca href\u003d\"https://ads-help.yahoo-net.jp/s/article/H000044362?language\u003dja\"\u003eコンバージョン測定で設置が必要なタグについて\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上のリンクをクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e",
     "name": "product_link",
     "type": "LABEL"
   },
